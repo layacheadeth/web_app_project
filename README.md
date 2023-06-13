@@ -1,4 +1,4 @@
-# profiles-rest-api
+# RealEstate-rest-api
 Rest-api-code for web-app-project
 
 The web app project is a real-estate website which has Django as backend and Angular as Frontend.
